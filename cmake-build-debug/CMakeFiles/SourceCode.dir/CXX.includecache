@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Connor Giles/Dropbox/COP3503/Lab3/SourceCode/DynamicArray.h
+iostream
+-
+
+C:/Users/Connor Giles/Dropbox/COP3503/Lab3/SourceCode/main.cpp
+iostream
+-
+vector
+-
+string
+-
+DynamicArray.h
+C:/Users/Connor Giles/Dropbox/COP3503/Lab3/SourceCode/DynamicArray.h
+
